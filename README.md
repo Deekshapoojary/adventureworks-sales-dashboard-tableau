@@ -8,7 +8,7 @@ The dashboard helps analyze sales performance, customer behavior, product perfor
 
 ## Dashboard Preview
 
-![Tableau Dashboard](Images/Tableau-dashboard.png)
+![Tableau Dashboard](Images/Tableau-Dashboard.png)
 
 ## Tools Used
 
