@@ -42,3 +42,9 @@ Images/
 Deeksha Poojary
 
 Aspiring Data Analyst
+
+LinkedIn:
+https://www.linkedin.com/in/deeksha-poojary-584423230/
+
+GitHub:
+https://github.com/Deekshapoojary
